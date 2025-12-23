@@ -1,0 +1,40 @@
+body {
+  background-color: #f2f3f7;
+  font-family: Georgia;
+
+}
+
+#contenedor {
+    background-color: white;
+    width: 350px;
+    margin: 80px auto;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+h1{
+    color: #3a058a;
+
+}
+
+#resultado {
+    font-size: 18px;
+    margin-top: 15px;
+
+}
+
+button:hover{
+    background-color: blue;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6a5acd;
+    color: white;
+    font-size: 14px;
+    cursor:pointer;
+}
